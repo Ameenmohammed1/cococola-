@@ -8,7 +8,7 @@
 .banner{
     width: 100%;
     height: 100vh;
-    background-image: url(/images/background.jpg);
+    background-image: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtw9pPaUYQrH8HYjpRj9BpzJ9O5cbxk6u-Aiw8nwww-l2f77HSUreLoQUPygWN-svYIq7PS2u8qmzXMUHA3_SOU4P_kS4Nj4dA41kHvzvNQ4KsaLpkYblUfb1s3BCodTcMmZn2jGvrUgNnT5I8swdlJsBvnOcD1nfhTNUP7OA1brYpWo6l79APqU9xiw/s16000/background.jpg);
     background-size:cover;
     background-position:center ;
 }
